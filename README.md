@@ -8,9 +8,9 @@ Built using Microsoft Excel, the dashboard combines interactive charts, KPI card
 ***
 The primary objectives of this project are to:
 
-**Analyze sales performance across different product categories and regions.
-**Evaluate product sales distribution across customer segments.
-**Compare revenue contributions from Business, Individual, and Wholesale customers.
-**Examine profit margin and discount rate distribution across product categories.
-**Understand the relationship between sales amount and quantity sold.
-**Enable interactive analysis through filters for payment method, customer segment, sales channel, and city.
+Analyze sales performance across different product categories and regions.
+/Evaluate product sales distribution across customer segments.
+/Compare revenue contributions from Business, Individual, and Wholesale customers.
+/Examine profit margin and discount rate distribution across product categories.
+/Understand the relationship between sales amount and quantity sold.
+/Enable interactive analysis through filters for payment method, customer segment, sales channel, and city.
